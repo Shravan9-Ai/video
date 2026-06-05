@@ -45,10 +45,3 @@ project-folder/
 * Connect the form to a database.
 * Make the form responsive for mobile devices.
 
-## Author
-
-**Akash Bhong**
-
-## License
-
-This project is created for educational and learning purposes.
